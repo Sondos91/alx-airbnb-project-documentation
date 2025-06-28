@@ -16,3 +16,4 @@ Key Features of the User Stories:
 ✅ Address core Airbnb functionality: Booking, searching, payments, reviews, etc.
 ✅ Include technical considerations: JWT authentication, multiple payment methods, notifications
 ✅ Provide implementation guidance: Priority levels and acceptance criteria
+
